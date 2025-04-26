@@ -3,68 +3,27 @@
 </div>
 
 ###
-
-<h3>who loves programming</h3>
-
-- 🔭 I'm currently working on [aoudumber.netlify.app](https://aoudumber.netlify.app)
-
-- 🌱 I'm currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://aoudumber.netlify.app](https://aoudumber.netlify.app)
-
-- 💬 Ask me about **react, next.js, node.js**
-
-- 📫 How to reach me **aoudumber69@gmail.com**
-
-<h3>Languages and Tools:</h3>
-
-
-
+- # Hi there, I'm [Your Name]!
+ 
+ I'm a beginner front-end developer currently learning:
+ 
+ - HTML
+ - CSS
+ - JavaScript
+ 
+ I'm passionate about building beautiful and responsive web pages as I grow my skills.  
+ You can follow my journey here as I build projects and improve every day.
+ 
+ ## 🔧 Tools I'm learning:
+ - Visual Studio Code
+ - Git & GitHub
+ - Chrome DevTools
+ 
+ ## 🌱 What I'm working on:
+ Learning to build my first portfolio website!
+ 
+ Let's connect and grow together!`
 ###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
-
-###
-
-
 
   <!-- for beauty -->
   <div>&nbsp;</div>
@@ -90,18 +49,4 @@
 
 #  🙋 Hello
 
-<table>
-  
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://i.ibb.co/rRWCTq1m/githubimg.png" />
-
-<p>&emsp;&emsp;Hi, I am Aoudumber Bade. I love programming, photography, reading, and traveling.</p>
-<p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
-<p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-</td></tr
-
-</table>
 

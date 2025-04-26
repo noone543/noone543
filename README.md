@@ -34,8 +34,8 @@
 
   <!-- profile logo -->
   <div style="background-color:black;color:white;padding:40px">
-    <a href="https://www.instagram.com/no_one5181?igsh=MXVubmMybzZremQ3Nw==## 📫 Connect With Me
-
+    <a href="https://www.instagram.com/no_one5181?igsh=MXVubmMybzZremQ3Nw=="><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
+  
   <!-- Snake Code Contribution Map -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />

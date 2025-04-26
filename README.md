@@ -3,10 +3,13 @@
 </div>
 
 ###
-- # Hi there, I'm [Your Name]!
- 
+- # Hi there, I'm Pritam Roy!
+  
+- I'm a passionate self-taught developer.
+- I love coding on my phone using **SPCK Editor**.
+- I'm currently learning web development and mobile coding.
+
  I'm a beginner front-end developer currently learning:
- 
  - HTML
  - CSS
  - JavaScript
@@ -15,6 +18,7 @@
  You can follow my journey here as I build projects and improve every day.
  
  ## 🔧 Tools I'm learning:
+ - SPCK Editor (Android app)
  - Visual Studio Code
  - Git & GitHub
  - Chrome DevTools
@@ -30,15 +34,7 @@
 
   <!-- profile logo -->
   <div style="background-color:black;color:white;padding:40px">
-    <a href="https://www.instagram.com/aoudumbersbade/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
-    <a href="https://twitter.com/aoudumberbade"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@toxicprogrammer69"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
-    <a href="https://aoudumbar.netlify.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=Aoudumber-Bade&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@aoudumberbade"><img src="https://wakatime.com/badge/user/018ea536-beca-4143-a136-4ca1c4ff3898.svg" /></a>
-
+    <a href="https://www.instagram.com/no_one5181?igsh=MXVubmMybzZremQ3Nw==## 📫 Connect With Me
 
   <!-- Snake Code Contribution Map -->
   <picture>
@@ -48,5 +44,6 @@
   </picture>
 
 #  🙋 Hello
-
+## 📫 Connect With Me
+- [Instagram](https://www.instagram.com/no_one5181?igsh=MXVubmMybzZremQ3Nw==)
 

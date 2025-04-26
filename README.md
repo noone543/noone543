@@ -101,37 +101,7 @@
 <p>&emsp;&emsp;Hi, I am Aoudumber Bade. I love programming, photography, reading, and traveling.</p>
 <p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
 <p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-</td></tr>
-
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
-
-- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/)  &nbsp;&nbsp; &nbsp; &nbsp;    📌 2024
-  - Position: Full Stack Developer
-  - Responsibilities: development and maintenance
-  - TechStack: HTML, CSS, JS, PHP, MySQL
-
-<img align="right" width="88" src="https://i.ibb.co/fd8kVxQz/2shoteasy.png" />
-
-- [My Personal Portfolio](https://aoudumbar.netlify.app/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
-  - Position: Mern Developer
-  - Responsibilities: Various tasks
-  - Techstack: MERN
-
-<img align="right" width="88" src="https://i.ibb.co/fY4ryhZW/newsymo.png" />
-
-- [Freelancing Project - Symo Dance Academy](https://www.symo.wauze.com/)    &nbsp;&nbsp; &nbsp; &nbsp;    📌 2023
-  - Position: Website Developer
-  - Responsibilities: Creating a fully responsive website with backend and frontend
-  - Techstack: HTML, CSS, JS, PHP, MYSQL
-
-
-</td></tr>
-
-<tr><td>
+</td></tr
 
 </table>
 

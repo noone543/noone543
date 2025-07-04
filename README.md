@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="left">
+  <img height="300" src="https://i.ibb.co/RpdkBC1r/pritam-instagram-banner.png"  />
+</div>
 
-<!--
-**noone543/noone543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+- # Hi there, I'm Pritam Roy!
+  
+- I'm a passionate self-taught developer.
+- I love coding on my phone using **SPCK Editor**.
+- I'm currently learning web development and mobile coding.
 
-Here are some ideas to get you started:
+ I'm a beginner front-end developer currently learning:
+ - HTML
+ - CSS
+ - JavaScript
+ 
+ I'm passionate about building beautiful and responsive web pages as I grow my skills.  
+ You can follow my journey here as I build projects and improve every day.
+ 
+ ## 🔧 Tools I'm learning:
+ - SPCK Editor (Android app)
+ - Visual Studio Code
+ - Git & GitHub
+ - Chrome DevTools
+ 
+ ## 🌱 What I'm working on:
+ Learning to build my first portfolio website!
+ 
+ Let's connect and grow together!`
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- for beauty -->
+  <div>&nbsp;</div>
+
+  <!-- profile logo -->
+  <div style="background-color:black;color:white;padding:40px">
+    <a href="https://www.instagram.com/no_one5181?igsh=MXVubmMybzZremQ3Nw=="><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
+  
+  <
+#  🙋 Hello
+## 📫 Connect With Me
+- [Instagram](https://www.instagram.com/no_one5181?igsh=MXVubmMybzZremQ3Nw==)
+-
